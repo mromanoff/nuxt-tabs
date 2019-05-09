@@ -1,4 +1,4 @@
-# nuxt-tabs-test
+# nuxt-tabs
 
 > POC nuxt tabs with vuex-persist
 
